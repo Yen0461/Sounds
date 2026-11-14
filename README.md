@@ -1,6 +1,6 @@
 This features three different types of music:
--Ambient
--Melodic
--Background
+Ambient,
+Melodic,
+and Background
 
 Good luck finding which mp3 file is which ✌
